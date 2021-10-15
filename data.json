@@ -1,0 +1,20 @@
+{
+    "Favorite1": {
+        "title":"My First Hobby",
+        "name":"Travelling",
+        "description":"Planning trips and travelling are some of my hobbies. Cinque Terre area is seaside villages on Italian Riviera coastline, was one of the most beautiful places I've been to.",
+        "favpic":"travel2.jpg"
+    },
+    "Favorite2": {
+        "title":"My Second Hobby",
+        "name":"Painting",
+        "description":"Doodling and painting are also my hobbies. This poppy field is my favorite. I usually use acrylic paint in my project.",
+        "favpic":"poppy.jpg"
+    },
+    "Favorite3": {
+        "title":"My Third Hobby",
+        "name":"Collecting Snowglobe",
+        "description":"I have a snowball collection from different countries and cities I travelled. I always buy something that symbolizes that city from the cities where I couldn't get a globe.",
+        "favpic":"snowball.jpg"
+    }
+  }

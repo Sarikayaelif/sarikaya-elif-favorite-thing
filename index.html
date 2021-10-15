@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Favorite Thing</title>
+</head>
+<body>
+    
+ <section id="landing_page">
+    <p>Are you ready to know more about me?</p>
+    <a href="#" id="more">See More</a>
+ </section>
+
+
+ <section id="favSection">
+
+    <!-- template tags at the bottom -->
+    <!-- template tags don't get rendered - they just hold reusable content -->
+    <template id="fav_template">
+        <section class="fav_panel"> 
+            <h2>My 3 Favorite Things</h2>
+            <div class="p_image"> <!-- this is index 0 (the first child)-->
+                <img class="p_img" src="" alt="" width="300px">
+            </div> 
+    
+            <h2 class="p_title"></h2> <!-- this is index 1 (the second child)-->
+            <h3 class="p_name"></h3>
+            <p class="p_description"></p> <!-- this is index 2 (the third child)-->
+            
+        </section>
+    </template>
+
+</section>
+    <script src="js/main.js" type="module" defer></script>
+</body>
+</html>
