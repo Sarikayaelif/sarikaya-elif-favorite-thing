@@ -5,3 +5,10 @@
 @import "modules/queries";
 
 @import "modules/defaults";
+@import "modules/fav_panel";
+body { 
+    background-color: $main-backgroundcolor;
+    color: $main-color; 
+    font-size: $main-size; 
+    font-family: $main-font;
+}
