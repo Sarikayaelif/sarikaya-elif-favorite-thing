@@ -1,8 +1,11 @@
 @media screen and (min-width: 375px) {
-    .fav_panel {
-        display: flex;
+    .btns {
+        display:flex;
         flex-direction: row;
-
-        margin: 10px;
+        justify-content: center;
+    }
+    .p_image {
+        
+        margin-left: 50%;
     }
 }
